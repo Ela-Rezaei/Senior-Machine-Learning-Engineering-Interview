@@ -7,6 +7,33 @@ I struggled to gauge how much time it would take to master the vast amount of ma
 
 To cut through the ambiguity, I sifted through countless resources—books, blogs, YouTube videos, and online courses—distilling them into a powerful, high-impact guide. 💻📚 This carefully curated collection is designed to equip you with the knowledge and strategies needed to excel in senior-level machine learning engineering roles. I hope it proves as valuable to you as it was for me. 🙌
 
+
+## Table of Contents
+
+1. [Chapter 1: Introduction](#chapter-1-introduction)
+2. [Chapter 2: Data Processing](#chapter-2-data-processing)
+3. [Chapter 3: Model Training](#chapter-3-model-training)
+4. [Chapter 4: Evaluation & Optimization](#chapter-4-evaluation--optimization)
+5. [Chapter 5: Deployment](#chapter-5-deployment)
+
+---
+
+## Chapter 1: Introduction
+(Your content here...)
+
+## Chapter 2: Data Processing
+(Your content here...)
+
+## Chapter 3: Model Training
+(Your content here...)
+
+## Chapter 4: Evaluation & Optimization
+(Your content here...)
+
+## Chapter 5:
+
+
+
 # Contribution & Acknowledgement
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
