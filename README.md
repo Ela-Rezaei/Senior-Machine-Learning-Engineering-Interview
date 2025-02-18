@@ -11,27 +11,29 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 ## Table of Contents
 
 1. [Chapter 1: Data Structures & Algorithms](#chapter-1)
-2. [Chapter 2: Data Processing](#chapter-2-data-processing)
-3. [Chapter 3: Model Training](#chapter-3-model-training)
-4. [Chapter 4: Evaluation & Optimization](#chapter-4-evaluation--optimization)
-5. [Chapter 5: Deployment](#chapter-5-deployment)
+2. [Chapter 2: Coding Problem (LEET)](#chapter-2)
+3. [Chapter 3: ML System Design](#chapter-3)
+4. [Chapter 4: General System Design](#chapter-4)
+5. [Chapter 5: Behavioral Prep](#chapter-5)
+6. [Chapter 6: Core Concepts: ML, Statistics, Algebra](#chapter-6)
 
 ---
 
 ## Chapter 1: Data Structures & Algorithms
 (Your content here...)
 
-## Chapter 2: Data Processing
+## Chapter 2: Coding Problem (LEET)
 (Your content here...)
 
-## Chapter 3: Model Training
+## Chapter 3: ML System Design
 (Your content here...)
 
-## Chapter 4: Evaluation & Optimization
+## Chapter 4: General System Design
 (Your content here...)
 
-## Chapter 5:
+## Chapter 5: Behavioral Prep
 
+## Chapter 6: Core Concepts: ML, Statistics, Algebra
 
 # Contribution & Acknowledgement
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
