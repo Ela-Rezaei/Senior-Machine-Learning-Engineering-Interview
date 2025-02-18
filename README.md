@@ -31,6 +31,12 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 - [Heap](https://www.youtube.com/watch?v=rI2EBUEMfTk&t=228s)
 
 ### Key Sorting and Search Techniques
+- Linear
+- Merge
+- Quick
+- Insert
+- Non comparison sorting algos like Bucket sort.
+  * Analyze and compare their time and space complexity.
 
 
 ## Chapter 2: Coding Problem (LEET)
