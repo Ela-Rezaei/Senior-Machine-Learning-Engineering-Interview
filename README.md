@@ -21,6 +21,8 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 
 ## Chapter 1: Data Structures & Algorithms
 ### A great starting point for refreshing your knowledge of various data structures and algorithms: [Link](https://www.hellointerview.com/learn/code)
+### Must-Learn Algorithms and Design Patterns
+
 
 ## Chapter 2: Coding Problem (LEET)
 (Your content here...)
