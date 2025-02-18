@@ -10,7 +10,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 
 ## Table of Contents
 
-1. [Chapter 1: Data Structures & Algorithms](#chapter-1-data structures and algorithms)
+1. [Chapter 1: Data Structures & Algorithms](#chapter-1-introduction)
 2. [Chapter 2: Data Processing](#chapter-2-data-processing)
 3. [Chapter 3: Model Training](#chapter-3-model-training)
 4. [Chapter 4: Evaluation & Optimization](#chapter-4-evaluation--optimization)
