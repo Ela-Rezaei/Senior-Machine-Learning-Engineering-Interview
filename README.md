@@ -20,7 +20,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 ---
 
 ## Chapter 1: Data Structures & Algorithms
-(Your content here...)
+### A great starting point for refreshing your knowledge of various data structures and algorithms: [Link Text]([https://example.com](https://www.hellointerview.com/learn/code)
 
 ## Chapter 2: Coding Problem (LEET)
 (Your content here...)
