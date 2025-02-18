@@ -38,7 +38,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 - Insert
 - Non comparison sorting algos like Bucket sort.
  
-Analyze and compare their time and space complexity.
+Analyze and compare their time and space complexity. A quick reference for Big-O notation [Link](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
 ## Chapter 2: Coding Problem (LEET)
 (Your content here...)
