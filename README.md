@@ -10,7 +10,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 
 ## Table of Contents
 
-1. [Chapter 1: Data Structures & Algorithms](#chapter-1)
+1. [Chapter 1: Data Structures & Algorithms](src/DS_README.md)
 2. [Chapter 2: Coding Problem (LEET)](#chapter-2)
 3. [Chapter 3: ML System Design](#chapter-3)
 4. [Chapter 4: General System Design](#chapter-4)
