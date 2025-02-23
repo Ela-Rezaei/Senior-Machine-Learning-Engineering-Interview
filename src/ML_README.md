@@ -11,12 +11,12 @@ In a machine learning system design interview, you typically have around 45 minu
   Identify the primary use cases and the overarching business objective.  
 
 - **Requirements**  
-  - *Functional*: Define the scope, including necessary features and personalization needs.  
-  - *Nonfunctional*: Address performance metrics such as prediction latency, scalability, and system availability.(Optional here, we can discuss that later too)
-  - *Constraints*: Consider privacy regulations and compliance with data protection standards.  
+  - Functional: Define the scope, including necessary features.  
+  - Nonfunctional: Address performance metrics such as prediction latency, scalability, and system availability.(Optional here, we can discuss that later too.)
+  - Constraints: Consider privacy regulations and compliance with data protection standards.  
 
 - **Training Data and Labels**  
-  - Sources: User interaction logs, ad content data, user profiles, contextual information, and user-user relationships (e.g., friendships).  
+  - Sources: User interaction logs, ad content data, user profiles, contextual information, and user-user relationships (e.g., friendships in facebook).  
   - Historical click and impression data.  
 
 - **Costs for Data**  
@@ -26,4 +26,4 @@ In a machine learning system design interview, you typically have around 45 minu
 
 - **Problem Translation to ML**  
   - Convert the abstract problem into a concrete ML problem.  
-  - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised learning, etc.).  
+  - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised , reinforcement learning, etc.).  
