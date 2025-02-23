@@ -5,27 +5,24 @@ In a machine learning system design interview, you typically have around 45 minu
 
 ### 1. **Problem Formulation**
 
-- **Clarifying Questions**  
-  Define the problem clearly by asking targeted questions to ensure full understanding.  
+- **Clarifying Questions**
 
 - **Use Case(s) and Business Goal**  
   Identify the primary use cases and the overarching business objective.  
 
 - **Requirements**  
   - *Functional*: Define the scope, including necessary features and personalization needs.  
-  - *Nonfunctional*: Address performance metrics such as prediction latency, scalability, and system availability.  
+  - *Nonfunctional*: Address performance metrics such as prediction latency, scalability, and system availability.(Optional here, we can discuss that later too)
   - *Constraints*: Consider privacy regulations and compliance with data protection standards.  
 
 - **Training Data and Labels**  
   - Sources: User interaction logs, ad content data, user profiles, contextual information, and user-user relationships (e.g., friendships).  
-  - Historical click and impression data for model training and evaluation.  
-  - Ensure the availability of labeled data for supervised learning.  
+  - Historical click and impression data.  
 
-- **Costs**  
+- **Costs for Data**  
   - Data collection, annotation, and computational resources.  
 
 - **Assumptions**  
-  - Clarify assumptions that simplify the problem without compromising the solution’s integrity.  
 
 - **Problem Translation**  
   - Convert the abstract problem into a concrete ML problem.  
