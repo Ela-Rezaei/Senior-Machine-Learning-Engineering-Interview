@@ -16,5 +16,4 @@
 - Quick
 - Insert
 - Non comparison sorting algos like Bucket sort.
- 
-Analyze and compare their time and space complexity. A quick reference for Big-O notation [Link](https://www.youtube.com/watch?v=__vX2sjlpXU)
+Ask ChatGPT or any AI Assistant of your choice to explain these methods, explore their trade-offs, understand when and where to use them, and compare their time and space complexities. A quick reference for Big-O notation [Link](https://www.youtube.com/watch?v=__vX2sjlpXU)
