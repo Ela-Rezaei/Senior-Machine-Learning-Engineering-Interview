@@ -9,6 +9,8 @@ https://leetcode.com/studyplan/top-interview-150/
 I recommend that once you have learned the fundamentals of algorithms and data structures (as I explained in Chapter 1), start solving problems directly instead of reading the solutions. 
 I created this template to structure my steps, thought process, and communication during the interview.
 
+
+
 To practice coding questions effectively for interviews:
 
 1- Start Without Timing Yourself: I started on paper using the above template. 
