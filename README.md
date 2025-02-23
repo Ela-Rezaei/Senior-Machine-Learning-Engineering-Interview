@@ -5,7 +5,7 @@ As a senior machine learning applied scientist, I recently went through the inte
 
 I struggled to gauge how much time it would take to master the vast amount of material—hundreds of LeetCode questions, algorithms and data structures, system design principles, and behavioral interview strategies tailored to my experience.
 
-To cut through the ambiguity, I sifted through countless resources—books, blogs, YouTube videos, and online courses—distilling them into a powerful, high-impact guide. 💻📚 This carefully curated collection is designed to equip you with the knowledge and strategies needed to excel in senior-level machine learning engineering roles. I hope it proves as valuable to you as it was for me. 🙌
+To cut through the ambiguity, I sifted through countless resources—books, blogs, YouTube videos, and online courses—distilling them into a powerful, high-impact guide. 💻📚 This carefully curated collection is designed to equip you with the knowledge and strategies needed to excel in senior-level machine learning engineering roles (IC5+ in FAANG). I hope it proves as valuable to you as it was for me. 🙌
 
 
 ## Table of Contents
