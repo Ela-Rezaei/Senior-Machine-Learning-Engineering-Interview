@@ -1,2 +1,4 @@
 ## Chapter 3: ML System Design
 Machine learning system design interviews are quite different from general system design questions, which is why I separated this from general system design. Honestly, I did quite a massive search, and there aren’t many resources available online. So, I drew from my own experience designing deep learning systems at work, along with the ML system design interviews I’ve conducted—both as an interviewee and interviewer—to create a comprehensive template that captures all the key aspects of ML system design.
+
+In a machine learning system design interview, you typically have around 45 minutes—and it goes by fast. To make the most of this time, I created this template, inspired by this post, to outline steps that help structure your interview, bring order to your approach, and guide your thought process. When practicing for your interview, try using this framework until it becomes second nature.
