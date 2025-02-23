@@ -11,8 +11,7 @@ I created this template to structure my steps, thought process, and communicatio
 
 
 
-![Image](https://github.com/user-attachments/assets/7d54f54e-f7b4-4430-9004-fe11ac82d204)
-
+https://github.com/Ela-Rezaei/Senior-Machine-Learning-Engineering-Interview/issues/3#issue-2872940845
 
 To practice coding questions effectively for interviews:
 
