@@ -9,6 +9,8 @@ https://leetcode.com/studyplan/top-interview-150/
 I recommend that once you have learned the fundamentals of algorithms and data structures (as I explained in Chapter 1), start solving problems directly instead of reading the solutions. 
 I created this template to structure my steps, thought process, and communication during the interview.
 
+
+
 ![Image](https://github.com/user-attachments/assets/7d54f54e-f7b4-4430-9004-fe11ac82d204)
 
 
