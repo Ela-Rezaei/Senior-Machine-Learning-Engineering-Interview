@@ -10,8 +10,7 @@ I recommend that once you have learned the fundamentals of algorithms and data s
 I created this template to structure my steps, thought process, and communication during the interview.
 
 
-https://github.com/Ela-Rezaei/Senior-Machine-Learning-Engineering-Interview/issues/3#issue-2872940845
-
+![Image](https://github.com/user-attachments/assets/2a75a348-8a2d-4907-b2b4-bd1754d78cbc)
 
 To practice coding questions effectively for interviews:
 
