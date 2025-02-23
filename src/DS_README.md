@@ -1,4 +1,4 @@
-### Chapter 1: Data Structures & Algorithms
+## Chapter 1: Data Structures & Algorithms
 ### A great starting point for refreshing your knowledge of various data structures and algorithms: [Link](https://www.hellointerview.com/learn/code)
 ### Must-Learn Algorithms and Patterns
 - [BFS](https://www.youtube.com/watch?v=xlVX7dXLS64&t=45s)
