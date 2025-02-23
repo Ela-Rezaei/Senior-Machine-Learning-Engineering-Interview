@@ -24,6 +24,6 @@ In a machine learning system design interview, you typically have around 45 minu
 
 - **Assumptions**  
 
-- **Problem Translation**  
+- **Problem Translation to ML**  
   - Convert the abstract problem into a concrete ML problem.  
   - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised learning, etc.).  
