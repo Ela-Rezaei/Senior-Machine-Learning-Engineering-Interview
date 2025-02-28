@@ -3,7 +3,7 @@ Machine learning system design interviews are quite different from general syste
 
 In a machine learning system design interview, you typically have around 45 minutes—and it goes by fast. To make the most of this time, I created this template, inspired by [this amazing guide](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md) , to outline steps that help structure your interview, bring order to your approach, and guide your thought process. When practicing for your interview, try using this framework until it becomes second nature.
 
-**###1- Clarifying Questions**
+### 1- Clarifying Questions
 
 - **Use Case(s) and Business Goal**  
   Identify the primary use cases and the overarching business objective.  
