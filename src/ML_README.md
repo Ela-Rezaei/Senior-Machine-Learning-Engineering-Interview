@@ -26,3 +26,58 @@ In a machine learning system design interview, you typically have around 45 minu
   - Convert the abstract problem into a concrete ML problem.  
   - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised , reinforcement learning, etc.). 
 
+**2-a Offline Metrics**
+* **Classification Metrics**
+  * Precision, Recall, F1-score
+  * ROC and AUC
+  * Precision-Recall AUC
+  * Mean Average Precision (mAP)
+  * Log-loss
+  * Strategies for imbalanced data
+    
+* **Retrieval and Ranking Metrics**
+  * Position-aware
+    * Mean Average Precision (mAP)
+    * Mean Reciprocal Rank (MRR)
+    * Normalized Discounted Cumulative Gain (nDCG)
+  * Position-unaware
+    * Precision@k
+    * Recall@k
+    
+* **Regression Metrics**
+  * Mean Squared Error (MSE)
+  * Mean Absolute Error (MAE)
+  * Root Mean Squared Error (RMSE)
+    
+* **Domain-Specific Metrics**
+  * Natural Language Processing
+    * BLEU, ROUGE, BLEURT
+    * GLUE benchmark
+  * Advertising
+    * Cost Per Engagement (CPE)
+    
+* **System Performance Metrics**
+  * Latency (inference time)
+  * Computational cost
+  * Memory usage (especially for on-device models)
+
+**2-b Online Metrics**
+* **Engagement Metrics**
+  * Click-Through Rate (CTR)
+  * Task/session success rate
+  * Task/session completion time
+  * Interaction rates (likes, comments, shares)
+    
+* **Business Metrics**
+  * Conversion rate
+  * Revenue lift
+  * Return on investment (ROI)
+    
+* **User Experience Metrics**
+  * Reciprocal rank of first click
+  * Time to first action
+    
+* **Negative Feedback Metrics**
+  * Direct negative actions (hide, report, unsubscribe)
+  * Bounce rate
+  * Churn rate
