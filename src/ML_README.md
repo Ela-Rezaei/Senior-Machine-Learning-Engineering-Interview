@@ -82,9 +82,11 @@ In a machine learning system design interview, you typically have around 45 minu
   * Bounce rate
   * Churn rate
 
-**Architectural Components (MVP Logic)**
+### 3- Architectural Components (MVP Logic)
+
 At this stage, take a step back and examine your system holistically. Use the architecture diagram I created to guide your explanation of the high-level architecture and main components. Walk through the natural flow of data and processing in your system, highlighting the purpose and functionality of each key component.
 This is your opportunity to discuss non-functional requirements such as latency, throughput, and scalability considerations. Address how your design accommodates these requirements and explain the reasoning behind critical trade-offs you've made.
 Present the alternatives you considered for important design decisions and justify why you selected certain approaches over others. Connecting these technical choices back to business requirements is a plus.
 
+![Image](https://github.com/user-attachments/assets/8be6dbb4-0675-4825-9840-80ae42989b5e)
 
