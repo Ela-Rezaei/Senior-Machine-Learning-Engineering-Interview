@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule a Meeting</title>
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page</h1>
+    <p>Click the button below to schedule a time with me:</p>
+
+    <script type="text/javascript">
+        window.onload = function() { 
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/elahe-rezaei89/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
+</body>
+</html>
