@@ -39,7 +39,7 @@ I would like to express my gratitude to all the contributors and online resource
 # Let's Connect
 If you have any questions, I’d love to connect! Reach out on LinkedIn to set up a call, and I’ll get back to you as soon as I can.
 
-[**Link to my LinkedIn**](https://calendly.com/elahe-rezaei89/30min](https://www.linkedin.com/in/elahe-rezaei/)
+[**Link to my LinkedIn**](https://www.linkedin.com/in/elahe-rezaei/)
 
 Let’s dive in! 🎉
 
