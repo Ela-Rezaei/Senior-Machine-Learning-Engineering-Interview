@@ -36,4 +36,10 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 # Contribution & Acknowledgement
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
+# Let's Connect
+If you still have questions, let’s connect! Use the link below to set up a call—I’ll do my best to help.
+
+https://calendly.com/elahe-rezaei89/30min
+
 Let’s dive in! 🎉
+
