@@ -196,11 +196,11 @@ Present the alternatives you considered for important design decisions and justi
       * Determining update frequency
     
 
-  ### 6- Online Testing and Model Deployment
+### 7- Online Testing and Model Deployment
 * A/B testing methodology
 * Shadow deployment techniques
 
-### 7-Serving, Monitoring, and Maintenance
+### 8-Serving, Monitoring, and Maintenance
 * Deployment infrastructure
    * Hardware considerations (cloud, edge devices)
 * Prediction delivery modes
