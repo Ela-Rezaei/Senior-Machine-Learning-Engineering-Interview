@@ -37,3 +37,9 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
 Let’s dive in! 🎉
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/elahe-rezaei89/30min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff' }); }</script>
+<!-- Calendly badge widget end -->
