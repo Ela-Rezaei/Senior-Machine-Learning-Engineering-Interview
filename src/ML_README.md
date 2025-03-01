@@ -26,7 +26,7 @@ In a machine learning system design interview, you typically have around 45 minu
   - Convert the abstract problem into a concrete ML problem.  
   - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised , reinforcement learning, etc.). 
 
-**2-a Offline Metrics**
+### 2-a Offline Metrics
 * **Classification Metrics**
   * Precision, Recall, F1-score
   * ROC and AUC
@@ -61,7 +61,7 @@ In a machine learning system design interview, you typically have around 45 minu
   * Computational cost
   * Memory usage (especially for on-device models)
 
-**2-b Online Metrics**
+### 2-b Online Metrics
 * **Engagement Metrics**
   * Click-Through Rate (CTR)
   * Task/session success rate
