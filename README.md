@@ -39,7 +39,7 @@ I would like to express my gratitude to all the contributors and online resource
 # Let's Connect
 If you still have questions, let’s connect! Use the link below to set up a call—I’ll do my best to help.
 
-Link [https://calendly.com/elahe-rezaei89/30min]
+Link [Link to my calendar](https://calendly.com/elahe-rezaei89/30min)
 
 Let’s dive in! 🎉
 
