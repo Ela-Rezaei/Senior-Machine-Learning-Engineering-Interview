@@ -91,7 +91,7 @@ Present the alternatives you considered for important design decisions and justi
 ![Image](https://github.com/user-attachments/assets/8be6dbb4-0675-4825-9840-80ae42989b5e)
 
 
-### 3- Data Collection and Preparation
+### 4- Data Collection and Preparation
 * Data sources and collection methods
 * ML Data types
    * Structured data
@@ -112,7 +112,116 @@ Present the alternatives you considered for important design decisions and justi
 * Data augmentation techniques
 * Data Generation Pipeline components
    * Data collection/ingestion systems (offline, online)
-   * Feature engineering and extraction
-   * Feature transformation processes
    * Label generation mechanisms
+ 
+### 5- Feature Engineering
+* Features
+   * Post features
+      * Text content
+      * Image/video attributes
+      * Engagement metrics (likes, shares, replies)
+      * Post age
+      * Hashtags and topics
+   * User features
+      * Identifiers (ID, username)
+      * Demographics (age, gender, location)
+      * Contextual information (device, time of day)
+      * Historical interaction patterns (click rates, engagement)
+   * User-Post interaction features
+      * Entity IDs (user, post/ad)
+      * Interaction type and metadata (time, location)
+   * User-creator relationship features
+      * Connection type
+      * Historical engagement with creator
+* Feature representation techniques
+   * One-hot encoding for categorical variables
+   * Embedding approaches
+      * Pre-computation and storage strategies
+   * Categorical encoding methods (one-hot, ordinal, count)
+   * Numerical feature scaling and normalization
+* Preprocessing requirements
+   * Unstructured data processing
+      * Text: Tokenization pipeline (normalization, tokenizer models, special tokens)
+      * Images: Resizing, normalization
+      * Video: Frame extraction, sampling, scaling
+* Missing value handling strategies
+* Feature importance analysis and selection methods
+* Feature computation timing
+   * Static features (from feature store)
+   * Dynamic features (computed at serving time)
+
+### 6-Model Development and Tranining
+* Model selection approach
+   * Classical modeling options
+      * Logistic Regression
+      * Decision tree variants
+         * Gradient Boosting (XGBoost)
+         * Random Forests
+      * Neural network architectures
+         * Feedforward networks
+         * Convolutional Neural Networks (CNN)
+         * Recurrent Neural Networks (RNN)
+         * Transformer models
+   * Selection criteria
+      * Task complexity considerations
+      * Data characteristics (type, volume, complexity)
+      * Training efficiency
+      * Inference constraints (compute, latency, memory)
+      * Continual learning requirements
+      * Model interpretability needs
+* Dataset management
+   * Data partitioning strategy
+      * Time-based splitting for temporal data
+         * Accounting for seasonality and trends
+      * Preventing data leakage
+         * Restricting transformation statistics to training data
+   * Addressing class imbalance
+      * Resampling techniques
+      * Loss function weighting
+      * Class consolidation approaches
+      * Stratified sampling
+* Training process
+   * Loss function selection
+      * MSE, Cross-Entropy, MAE, Huber, Contrastive
+   * Optimizer selection
+      * SGD, AdaGrad, RMSProp, Adam
+   * Training methodology
+      * Full training vs. transfer learning
+   * Comprehensive offline evaluation
+   * Hyperparameter optimization
+      * Grid search implementation
+   * Iterative improvement cycle
+      * Refining model selection
+      * Enhancing data augmentation
+      * Determining update frequency
+    
+
+  ### 6- Online Testing and Model Deployment
+* A/B testing methodology
+* Shadow deployment techniques
+
+### 7-Serving, Monitoring, and Maintenance
+* Deployment infrastructure
+   * Hardware considerations (cloud, edge devices)
+* Prediction delivery modes
+   * Batch processing vs. real-time inference
+* Comprehensive monitoring system
+   * Logging framework
+      * Feature values, model predictions, performance metrics, system events
+   * Key monitoring indicators
+      * System performance metrics
+      * Model quality metrics
+         * Integrated online and offline metric dashboards
+   * Data distribution shift detection
+* Failure handling
+   * Infrastructure failures
+   * Model performance degradation
+* Model refresh strategy
+   * Training approach
+      * Full retraining vs. incremental updates
+      * Optimal update frequency determination
+   * Automated model deployment
+   * Human oversight integration
+
+  
 
