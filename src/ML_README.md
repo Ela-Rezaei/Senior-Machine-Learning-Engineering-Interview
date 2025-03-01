@@ -90,3 +90,29 @@ Present the alternatives you considered for important design decisions and justi
 
 ![Image](https://github.com/user-attachments/assets/8be6dbb4-0675-4825-9840-80ae42989b5e)
 
+
+### 3- Data Collection and Preparation
+* Data sources and collection methods
+* ML Data types
+   * Structured data
+      * Numerical (discrete, continuous)
+      * Categorical (ordinal, nominal)
+   * Unstructured data (images, text, video, audio)
+* Labeling for supervised learning
+   * Labeling approaches and trade-offs
+      * Negative sampling strategies
+      * Explicit user feedback collection
+      * Human annotation (costs, timeline, privacy concerns)
+   * Handling limited labels
+      * Semi-supervised learning techniques
+      * Transfer learning approaches
+         * Pre-training on large datasets
+         * Zero-shot learning and fine-tuning options
+      * Active learning implementation
+* Data augmentation techniques
+* Data Generation Pipeline components
+   * Data collection/ingestion systems (offline, online)
+   * Feature engineering and extraction
+   * Feature transformation processes
+   * Label generation mechanisms
+
