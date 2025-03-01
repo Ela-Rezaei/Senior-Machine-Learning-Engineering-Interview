@@ -37,9 +37,9 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
 # Let's Connect
-If you still have questions, let’s connect! Use the link below to set up a call—I’ll do my best to help.
+If you have any questions, I’d love to connect! Reach out on LinkedIn to set up a call, and I’ll get back to you as soon as I can.
 
-[**Link to my calendar**](https://calendly.com/elahe-rezaei89/30min)
+[**Link to my LinkedIn**]([https://calendly.com/elahe-rezaei89/30min](https://www.linkedin.com/in/elahe-rezaei/))
 
 Let’s dive in! 🎉
 
