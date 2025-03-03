@@ -27,7 +27,7 @@ In a machine learning system design interview, you typically have around 45 minu
   - Convert the abstract problem into a concrete ML problem.  
   - Define the *ML category* (e.g., binary classification, multi-class classification, unsupervised , reinforcement learning, etc.). 
 
-### 2-a Offline Metrics
+#### 2-a Offline Metrics
 * **Classification Metrics**
   * Precision, Recall, F1-score
   * ROC and AUC
@@ -62,7 +62,7 @@ In a machine learning system design interview, you typically have around 45 minu
   * Computational cost
   * Memory usage (especially for on-device models)
 
-### 2-b Online Metrics
+#### 2-b Online Metrics
 * **Engagement Metrics**
   * Click-Through Rate (CTR)
   * Task/session success rate
@@ -83,7 +83,7 @@ In a machine learning system design interview, you typically have around 45 minu
   * Bounce rate
   * Churn rate
 
-### 3- Architectural Components (MVP Logic)
+#### 3- Architectural Components (MVP Logic)
 
 At this stage, take a step back and examine your system holistically. Use the architecture diagram I created to guide your explanation of the high-level architecture and main components. Walk through the natural flow of data and processing in your system, highlighting the purpose and functionality of each key component.
 This is your opportunity to discuss non-functional requirements such as latency, throughput, and scalability considerations. Address how your design accommodates these requirements and explain the reasoning behind critical trade-offs you've made.
@@ -92,7 +92,7 @@ Present the alternatives you considered for important design decisions and justi
 ![Image](https://github.com/user-attachments/assets/8be6dbb4-0675-4825-9840-80ae42989b5e)
 
 
-### 4- Data Collection and Preparation
+#### 4- Data Collection and Preparation
 * Data sources and collection methods
 * ML Data types
    * Structured data
@@ -115,7 +115,7 @@ Present the alternatives you considered for important design decisions and justi
    * Data collection/ingestion systems (offline, online)
    * Label generation mechanisms
  
-### 5- Feature Engineering
+#### 5- Feature Engineering
 * Features
    * Post features
       * Text content
@@ -151,7 +151,7 @@ Present the alternatives you considered for important design decisions and justi
    * Static features (from feature store)
    * Dynamic features (computed at serving time)
 
-### 6-Model Development and Tranining
+#### 6-Model Development and Tranining
 * Model selection approach
    * Classical modeling options
       * Logistic Regression
@@ -197,11 +197,11 @@ Present the alternatives you considered for important design decisions and justi
       * Determining update frequency
     
 
-### 7- Online Testing and Model Deployment
+#### 7- Online Testing and Model Deployment
 * A/B testing methodology
 * Shadow deployment techniques
 
-### 8-Serving, Monitoring, and Maintenance
+#### 8-Serving, Monitoring, and Maintenance
 * Deployment infrastructure
    * Hardware considerations (cloud, edge devices)
 * Prediction delivery modes
@@ -224,5 +224,8 @@ Present the alternatives you considered for important design decisions and justi
    * Automated model deployment
    * Human oversight integration
 
-  
+### Sample Questions for ML System Design
+
+https://www.tryexponent.com/questions?company=facebook&role=ml-engineer
+https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Behavioral&ordering=Recommended&orderingDirection=ASC&pageSize=100&page=0
 
