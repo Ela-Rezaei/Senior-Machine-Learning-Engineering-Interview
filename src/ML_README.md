@@ -226,6 +226,7 @@ Present the alternatives you considered for important design decisions and justi
 
 ### Sample Questions for ML System Design
 
-[Link 1](https://www.tryexponent.com/questions?company=facebook&role=ml-engineer)
-[Link 2](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Behavioral&ordering=Recommended&orderingDirection=ASC&pageSize=100&page=0)
+- [Source 1](https://www.tryexponent.com/questions?company=facebook&role=ml-engineer)
+
+- [Source 2](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Behavioral&ordering=Recommended&orderingDirection=ASC&pageSize=100&page=0)
 
