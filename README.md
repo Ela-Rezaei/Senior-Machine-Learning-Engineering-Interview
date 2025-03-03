@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/3fffe3cf-a810-41a1-a06b-1fc15dd94ee1)
+![Image](https://github.com/user-attachments/assets/c07e7d86-cd9d-484a-9f61-b2b1eb50fdc2)
 # Senior Machine Learning Engineering Interview Guide
 Welcome to this comprehensive guide designed to help you prepare for senior machine learning engineering interviews at FAANG and similar top-tier companies! 🚀
 
