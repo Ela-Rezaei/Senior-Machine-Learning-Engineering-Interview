@@ -20,19 +20,6 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 
 
 
-## Chapter 2: Coding Problem (LEET)
-(Your content here...)
-
-## Chapter 3: ML System Design
-(Your content here...)
-
-## Chapter 4: General System Design
-(Your content here...)
-
-## Chapter 5: Behavioral Prep
-
-## Chapter 6: Core Concepts: ML, Statistics, Algebra
-
 # Contribution & Acknowledgement
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
