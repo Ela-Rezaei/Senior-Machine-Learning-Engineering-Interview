@@ -24,7 +24,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 I would like to express my gratitude to all the contributors and online resources that made this guide possible. 🌟 Feedback and contributions are very welcome! 😊 If you'd like to contribute, please submit a pull request with your suggested changes.
 
 # Let's Connect
-If you have any questions, I’d love to connect! Reach out on LinkedIn to set up a call, and I’ll get back to you as soon as I can.
+I’d love to connect! If you still have any questions, reach out on LinkedIn, and I’ll get back to you as soon as I can.
 
 [**Link to my LinkedIn**](https://www.linkedin.com/in/elahe-rezaei/)
 
