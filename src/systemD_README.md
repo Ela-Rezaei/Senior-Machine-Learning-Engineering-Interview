@@ -26,16 +26,15 @@ When designing a system, there are various trade-offs to consider depending on t
    - **Pull/Polling Model:** Clients request updates at intervals (e.g., **RSS feeds, scheduled API calls**).  
 
 6️⃣ **Asynchronous vs. Synchronous Processing**  
-   - **Asynchronous:** Improves efficiency, non-blocking (e.g., **background jobs, event-driven architectures**).  
-   - **Synchronous:** Simpler but can be slow and blocking (e.g., **traditional HTTP requests**).  
+   - **Asynchronous
+   - **Synchronous
 
 7️⃣ **Real-Time vs. Batch Processing**  
-   - **Real-Time Processing:** Immediate data processing (e.g., **streaming analytics, fraud detection**).  
-   - **Batch Processing:** Data is processed periodically (e.g., **ETL jobs, nightly data aggregation**).  
+   - **Real-Time Processing
+   - **Batch Processing
+     
 
-Each trade-off should be evaluated based on system goals, performance requirements, and cost considerations.
-
-These videos cover essential concepts for system design interviews—highly recommended!
+These videos cover essential concepts for system design interviews and discuss the above trade-offs—**highly recommended!
 
 [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq)
 
