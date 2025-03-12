@@ -230,3 +230,7 @@ Present the alternatives you considered for important design decisions and justi
 
 - [Source 2](https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&tags=Behavioral&ordering=Recommended&orderingDirection=ASC&pageSize=100&page=0)
 
+### Want to master the fundamentals?
+
+[Source 1] (https://www.mlebook.com/wiki/doku.php)
+
