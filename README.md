@@ -14,7 +14,7 @@ To cut through the ambiguity, I sifted through countless resources—books, blog
 1. [Chapter 1: Data Structures & Algorithms](src/DS_README.md)
 2. [Chapter 2: Coding Problem (LEET)](src/Coding_README.md)
 3. [Chapter 3: ML System Design](src/ML_README.md)
-4. [Chapter 4: General System Design](src/SysD_README.md)
+4. [Chapter 4: General System Design](src/systemD_README.md)
 5. [Chapter 5: Behavioral Prep](src/BP_README.md)
 6. [Chapter 6: Core Concepts: ML, Statistics, Algebra](src/Core_README.md)
 
