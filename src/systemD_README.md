@@ -3,6 +3,6 @@ For a Machine Learning role, you may not need deep expertise in general software
 
 These videos cover essential concepts for system design interviews—highly recommended!
 
-**https://www.youtube.com/watch?v=_K-eupuDVEc&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq
+[Link 1](https://www.youtube.com/watch?v=_K-eupuDVEc&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq)
 
 **https://www.youtube.com/watch?v=NHqdG-aZxOk&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq&index=2
