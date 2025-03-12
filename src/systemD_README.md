@@ -8,3 +8,6 @@ These videos cover essential concepts for system design interviews—highly reco
 [Deisign TikTok](https://www.youtube.com/watch?v=NHqdG-aZxOk&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq&index=2)
 
 If you want to explore more system design problems and architectures beyond recommendation and ranking systems, check out these links:
+
+[A quick resource](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+[A more comprehensive resource](https://www.hiredintech.com/system-design/)
