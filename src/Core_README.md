@@ -1,6 +1,6 @@
-## Chapter 1: Data Structures & Algorithms
+## Chapter 6: Core Concepts: ML, Statistics, Algebra
 
-Part 1: Fundamentals
+### Part 1: Fundamentals
 
 1️⃣ Linear Algebra – Blue1Brown's playlist on YouTube is the most engaging Linear Algebra playlist.
 
@@ -14,7 +14,7 @@ Link: https://www.khanacademy.org/math/multivariable-calculus
 
 Link: https://www.youtube.com/@statquest
 
-Part 2: Machine Learning
+### Part 2: Machine Learning
 
 1️⃣ Stanford Intro to Machine Learning by Andrew Ng. The course also offers a free set of course notes, which are very well written.
 
@@ -28,7 +28,7 @@ Link: https://www.youtube.com/watch?v=mbyG85GZ0PI
 
 Link :https://www.youtube.com/playlist?list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L
 
-Part 3: Deep Learning
+### Part 3: Deep Learning
 
 1️⃣ Andrej Karpathy's Zero to Hero Series – Andrej Karpathy, an AI researcher who graduated with a Stanford PhD and led Tesla AI for several years, released an amazing series of hands on lectures on YouTube.
 
@@ -38,7 +38,7 @@ Link: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 Link: https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 
-Part 4: Transformers and LLMs
+### Part 4: Transformers and LLMs
 
 1️⃣ University of Waterloo lectures: This will give you lots of insights into how Transformers work.
 
