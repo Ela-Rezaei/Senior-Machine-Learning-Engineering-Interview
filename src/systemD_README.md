@@ -5,7 +5,7 @@ These videos cover essential concepts for system design interviews—highly reco
 
 [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq)
 
-[Deisign TikTok](https://www.youtube.com/watch?v=NHqdG-aZxOk&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq&index=2)
+[Design TikTok](https://www.youtube.com/watch?v=NHqdG-aZxOk&list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq&index=2)
 
 If you want to explore more system design problems and architectures beyond recommendation and ranking systems, check out these links:
 
