@@ -1,4 +1,4 @@
-## 
+## Chapter 1: Data Structures & Algorithms
 
 Part 1: Fundamentals
 
