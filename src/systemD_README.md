@@ -10,4 +10,5 @@ These videos cover essential concepts for system design interviews—highly reco
 If you want to explore more system design problems and architectures beyond recommendation and ranking systems, check out these links:
 
 [A quick resource](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+
 [A more comprehensive resource](https://www.hiredintech.com/system-design/)
